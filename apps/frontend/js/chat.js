@@ -22,7 +22,10 @@ function syncForm(profile) {
 function decorate(m, r) {
   if (r.schemes.length) {
     const d = el("details"); d.append(el("summary", "", `Schemes checked (${r.schemes.length})`));
-    for (const s of r.schemes) d.append(el("div", "", `${BADGE[s.status][1]} ${s.name}: ${s.status}`));
+    for (const s of r.schemes) {
+  const icon = s.status === "Eligible" ? "✓" : s.status === "Not eligible" ? "✕" : "⚠";
+  d.append(el("div", "", `${icon} ${s.name}: ${s.status}`));
+}
     m.append(d);
   }
   if (r.citations.length) {

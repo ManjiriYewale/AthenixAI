@@ -23,7 +23,8 @@ class AthenixVectorStore:
             exist_ok=True,
         )
 
-        self.model = SentenceTransformer(model_name)
+        self.model_name = model_name
+        self._model = None
 
         self.client = chromadb.PersistentClient(
             path=self.persist_directory
@@ -149,3 +150,10 @@ class AthenixVectorStore:
         """Return the total number of indexed chunks."""
 
         return self.collection.count()
+
+    @property
+    def model(self):
+        if self._model is None:
+            print("Loading sentence transformer model...")
+            self._model = SentenceTransformer(self.model_name)
+        return self._model

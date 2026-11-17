@@ -1,21 +1,31 @@
 """FastAPI app: versioned API under /api/v1 and static frontend hosting."""
+
+
 import sys
 from pathlib import Path
 from typing import Literal
-from govscheme.infrastructure.vector_store import AthenixVectorStore
-from govscheme.application.rag_service import RAGService
+from uuid import uuid4
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[3] / "src"))
+# Configure project paths BEFORE importing govscheme
+ROOT = Path(__file__).resolve().parents[3]
+SRC = ROOT / "src"
+
+if str(SRC) not in sys.path:
+    sys.path.insert(0, str(SRC))
+
+# Third-party imports
 from fastapi import FastAPI, HTTPException, Query, Request
 from fastapi.exceptions import RequestValidationError
 from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
+# Project imports
+from govscheme.infrastructure.vector_store import AthenixVectorStore
+from govscheme.application.rag_service import RAGService
 from govscheme.application.service import candidates, evaluate_all
 from govscheme.config import settings
 from govscheme.infrastructure.db import Repository
-from uuid import uuid4
 from govscheme.agents import nlu
 from govscheme.agents.workflow import Workflow, new_state, to_response
 from govscheme.document_processing.ingest import load_documents
