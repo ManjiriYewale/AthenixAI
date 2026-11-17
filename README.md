@@ -1,31 +1,109 @@
-# AthenixAI – Government Scheme Discovery (core build)
+# AthenixAI – AI-Powered Government Scheme Discovery
 
-Deterministic, explainable eligibility. The LLM never decides eligibility. Discovery aid only, not an official certificate.
+**AthenixAI** is an AI-powered Government Scheme Discovery and Assistance System that helps users find relevant Central and Maharashtra government schemes based on their personal profiles. It uses Agentic AI and Retrieval-Augmented Generation (RAG) to provide scheme information, supporting evidence, and application guidance.
 
-## Run
-```bash
-python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-cp .env.example .env
-uvicorn app.main:app --app-dir apps/api --reload      # open http://127.0.0.1:8000
-pytest                                                # 9 tests
-python scripts/import_seed.py data/imports/your_reviewed_schemes.json
+---
+
+## Overview
+
+Finding suitable government schemes can be difficult because information is spread across multiple government portals, documents, and guidelines.
+
+AthenixAI simplifies this process by allowing users to create a profile, discover potentially relevant schemes, explore scheme details, and interact with an AI-powered chatbot.
+
+## Key Features
+
+- **Profile-Based Recommendations:** Suggests potentially relevant schemes based on age, state, income, occupation, gender, category, and education.
+- **84 Government Schemes:** Includes Central Government and Maharashtra Government schemes.
+- **Five-Agent Architecture:** Uses Orchestrator, Retrieval, Eligibility, Clarification, and Guidance agents.
+- **Retrieval-Augmented Generation (RAG):** Retrieves relevant information from government scheme documents.
+- **Hybrid Search:** Combines BM25 keyword retrieval and ChromaDB semantic search.
+- **AI Chatbot:** Answers questions about scheme benefits, eligibility conditions, required documents, and application procedures.
+- **Source Citations:** Provides supporting PDF document references and page numbers.
+- **Explainable Recommendations:** Displays scheme information and manual-verification notices.
+- **Responsive Frontend:** Interactive interface with light and dark themes.
+
+## Technology Stack
+
+| Component | Technologies |
+|---|---|
+| Programming Language | Python |
+| Backend | FastAPI |
+| Frontend | HTML, CSS, JavaScript |
+| Database | SQLite |
+| Vector Database | ChromaDB |
+| Retrieval | BM25, Semantic Search, Hybrid Retrieval |
+| AI Integration | Groq API |
+| Document Processing | PyPDF |
+| Embeddings | Sentence Transformers |
+| Server | Uvicorn |
+| Testing | Pytest |
+
+## Agent Architecture
+
+AthenixAI uses five specialized agents:
+
+1. **Orchestrator Agent:** Understands user queries and coordinates the workflow.
+2. **Retrieval Agent:** Retrieves relevant scheme information using hybrid search.
+3. **Eligibility Agent:** Evaluates available profile information against configured eligibility rules.
+4. **Clarification Agent:** Identifies missing information and asks relevant questions.
+5. **Guidance Agent:** Generates explanations and provides scheme-related guidance with supporting evidence.
+
+## RAG Workflow
+
+1. Collect government scheme documents.
+2. Extract text from PDF documents.
+3. Split documents into smaller chunks.
+4. Generate semantic embeddings.
+5. Store document vectors in ChromaDB.
+6. Retrieve relevant passages using BM25 and semantic search.
+7. Combine retrieval results using hybrid ranking.
+8. Generate grounded responses with supporting citations.
+
+## Project Dataset
+
+- **84** Central and Maharashtra government scheme records.
+- **18** government scheme PDF documents.
+- Scheme categories include agriculture, education, healthcare, housing, women empowerment, employment, and social welfare.
+
+## Project Structure
+
+```text
+gsa/
+│
+├── apps/
+│   ├── api/
+│   │   └── app/
+│   │       └── main.py
+│   └── frontend/
+│       ├── css/
+│       ├── js/
+│       └── index.html
+│
+├── data/
+│   └── samples/
+│       └── india-central-maharashtra-schemes.json
+│
+├── documents/
+│   └── Government Scheme PDFs
+│
+├── scripts/
+│   ├── build_vector_index.py
+│   ├── import_real_schemes.py
+│   └── import_seed.py
+│
+├── src/
+│   └── govscheme/
+│       ├── agents/
+│       ├── application/
+│       ├── config/
+│       ├── document_processing/
+│       ├── domain/
+│       └── infrastructure/
+│
+├── storage/
+├── tests/
+├── requirements.txt
+└── README.md
 ```
 
-## Status
-Built: SQLite schema + validated import, rule engine (5 outcomes, 4 statuses, field mapping), search/evaluate/scheme API,
-consistent errors, mock grounded explanation, interactive responsive frontend (light/dark), unit + API tests.
-Not yet built: BM25 + document pipeline, five agents + controller, real LLM provider, admin + auth, frontend Node tests,
-evaluation metrics, PostgreSQL export. Empty package folders mark where they go.
-
-## Data warning
-`data/samples/demo_schemes.json` is SYNTHETIC. Your real 9 schemes / 31 rules / 29 documents were not in the project
-document. Export them to the same JSON shape and import. Never bulk-mark rules `verified`.
-
-## Chatbot + agentic RAG (added)
-Open the site and click "Ask AthenixAI". Five agents (Orchestrator, Retrieval, Eligibility, Clarification, Guidance) answer
-with citations, ask at most 3 clarifying questions, and abstain when no source supports a claim. See `docs/AGENTS.md`.
-Endpoints: `POST /api/v1/chat`, `POST /api/v1/workflows`, `GET /api/v1/workflows/{id}`, `POST /api/v1/workflows/{id}/clarifications`,
-`GET /api/v1/evidence/search`. Tests: `pytest` (22). Put real guideline files in `documents/` named after the scheme id.
-Real LLM: set `LLM_PROVIDER=openai_compat`, `LLM_API_KEY`, `LLM_MODEL` in `.env` (not tested here; mock is the default).
-Not built: ChromaDB/embeddings, LangGraph, PostgreSQL, Streamlit (the blueprint's stack; this project keeps your existing HTML/FastAPI/SQLite), admin and login.
+## Installation and Setup
