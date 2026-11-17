@@ -1,10 +1,9 @@
-
 """ChromaDB vector store for AthenixAI."""
 
 from pathlib import Path
 
 import chromadb
-from sentence_transformers import SentenceTransformer
+from chromadb.utils.embedding_functions import DefaultEmbeddingFunction
 
 
 class AthenixVectorStore:
@@ -23,8 +22,8 @@ class AthenixVectorStore:
             exist_ok=True,
         )
 
-        self.model_name = model_name
-        self._model = None
+        # Use ChromaDB's ONNX-based embedding function instead of PyTorch.
+        self.embedding_function = DefaultEmbeddingFunction()
 
         self.client = chromadb.PersistentClient(
             path=self.persist_directory
@@ -44,15 +43,11 @@ class AthenixVectorStore:
         total = len(documents)
 
         for start in range(0, total, batch_size):
-
             batch = documents[start:start + batch_size]
 
             texts = [doc["text"] for doc in batch]
 
-            embeddings = self.model.encode(
-                texts,
-                normalize_embeddings=True,
-            ).tolist()
+            embeddings = self.embedding_function(texts)
 
             ids = [doc["chunk_id"] for doc in batch]
 
@@ -93,10 +88,7 @@ class AthenixVectorStore:
         if not query.strip() or top_k <= 0 or total == 0:
             return []
 
-        query_embedding = self.model.encode(
-            [query],
-            normalize_embeddings=True,
-        ).tolist()
+        query_embedding = self.embedding_function([query])
 
         filters = []
 
@@ -134,7 +126,6 @@ class AthenixVectorStore:
             results["metadatas"][0],
             results["distances"][0],
         ):
-
             output.append({
                 "text": text,
                 "source": metadata["source"],
@@ -150,10 +141,3 @@ class AthenixVectorStore:
         """Return the total number of indexed chunks."""
 
         return self.collection.count()
-
-    @property
-    def model(self):
-        if self._model is None:
-            print("Loading sentence transformer model...")
-            self._model = SentenceTransformer(self.model_name)
-        return self._model
