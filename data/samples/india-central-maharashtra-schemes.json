@@ -1,0 +1,1766 @@
+[
+  {
+    "id": "catalog-001",
+    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Central",
+    "summary": "Income support for eligible landholding farmer families, subject to exclusions and official verification.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://pmkisan.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/ministry/Ministry%20Of%20Agriculture%20and%20Farmers%20Welfare",
+    "source_label": "myScheme — Central Agriculture Ministry schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-002",
+    "name": "Kisan Credit Card (KCC)",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Central",
+    "summary": "Institutional credit facility for eligible farmers to meet agricultural and allied activity needs; terms depend on lending institutions and current guidelines.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://www.myscheme.gov.in/search/ministry/Ministry%20Of%20Agriculture%20and%20Farmers%20Welfare",
+    "source_url": "https://www.myscheme.gov.in/search/ministry/Ministry%20Of%20Agriculture%20and%20Farmers%20Welfare",
+    "source_label": "myScheme — Central Agriculture Ministry schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-003",
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Central",
+    "summary": "Crop insurance programme for notified crops and areas; enrolment windows, risks covered and premium details depend on the season and state notification.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://pmfby.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/ministry/Ministry%20Of%20Agriculture%20and%20Farmers%20Welfare",
+    "source_label": "myScheme — Central Agriculture Ministry schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-004",
+    "name": "Pradhan Mantri Krishi Sinchayee Yojana — Per Drop More Crop",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Central",
+    "summary": "Supports improved on-farm water-use efficiency and micro-irrigation under applicable components and state implementation rules.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://pmksy.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/ministry/Ministry%20Of%20Agriculture%20and%20Farmers%20Welfare",
+    "source_label": "myScheme — Central Agriculture Ministry schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-005",
+    "name": "Soil Health Card Scheme",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Central",
+    "summary": "Provides soil-test information and nutrient recommendations to support informed farm input management.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://soilhealth.dac.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/ministry/Ministry%20Of%20Agriculture%20and%20Farmers%20Welfare",
+    "source_label": "myScheme — Central Agriculture Ministry schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-006",
+    "name": "Rashtriya Krishi Vikas Yojana (RKVY-RAFTAAR)",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Central",
+    "summary": "Supports state-led agriculture and allied-sector development projects; assistance is delivered through approved components and state departments.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://rkvy.nic.in/",
+    "source_url": "https://www.myscheme.gov.in/search/ministry/Ministry%20Of%20Agriculture%20and%20Farmers%20Welfare",
+    "source_label": "myScheme — Central Agriculture Ministry schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-007",
+    "name": "National Food Security Mission (NFSM)",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Central",
+    "summary": "Supports production and productivity interventions for notified crops through state agriculture departments and approved components.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://nfsm.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/ministry/Ministry%20Of%20Agriculture%20and%20Farmers%20Welfare",
+    "source_label": "myScheme — Central Agriculture Ministry schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-008",
+    "name": "PM-KUSUM",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Central",
+    "summary": "Promotes solar energy applications in agriculture, including specified pump and feeder components; availability and subsidy shares are state/component specific.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://pmkusum.mnre.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/ministry/Ministry%20Of%20Agriculture%20and%20Farmers%20Welfare",
+    "source_label": "myScheme — Central Agriculture Ministry schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-009",
+    "name": "e-National Agriculture Market (e-NAM)",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Central",
+    "summary": "Online trading platform intended to connect participating agricultural markets and support transparent trade in notified commodities.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://enam.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/ministry/Ministry%20Of%20Agriculture%20and%20Farmers%20Welfare",
+    "source_label": "myScheme — Central Agriculture Ministry schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-010",
+    "name": "Agri-Clinics and Agri-Business Centres (AC&ABC)",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Central",
+    "summary": "Training and support programme for eligible agriculture graduates and other qualified candidates to establish agriculture-related advisory or business services.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://acabcmis.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/ministry/Ministry%20Of%20Agriculture%20and%20Farmers%20Welfare",
+    "source_label": "myScheme — Central Agriculture Ministry schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-011",
+    "name": "Pradhan Mantri Matsya Sampada Yojana (PMMSY)",
+    "category": "Agriculture",
+    "subcategory": "Agriculture and allied sectors",
+    "jurisdiction": "Central",
+    "summary": "Supports fisheries development and eligible beneficiaries through approved central and state components; current calls and assistance vary by activity.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://pmmsy.dof.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/ministry/Ministry%20Of%20Agriculture%20and%20Farmers%20Welfare",
+    "source_label": "myScheme — Central Agriculture Ministry schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-012",
+    "name": "National Livestock Mission (NLM)",
+    "category": "Agriculture",
+    "subcategory": "Agriculture and allied sectors",
+    "jurisdiction": "Central",
+    "summary": "Supports eligible entrepreneurship and development activities in livestock and fodder sectors under current NLM guidelines.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://nlm.udyamimitra.in/",
+    "source_url": "https://www.myscheme.gov.in/search/ministry/Ministry%20Of%20Agriculture%20and%20Farmers%20Welfare",
+    "source_label": "myScheme — Central Agriculture Ministry schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-013",
+    "name": "Namo Shetkari Maha Sanman Nidhi Yojana",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Maharashtra",
+    "summary": "Maharashtra farmer income-support programme designed to complement eligible PM-KISAN beneficiaries; verify current state eligibility and payment status on official portals.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_label": "MahaDBT Maharashtra — Farmer Schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-014",
+    "name": "Dr. Babasaheb Ambedkar Krushi Swavalamban Yojana",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Maharashtra",
+    "summary": "Maharashtra agriculture support scheme listed for eligible Scheduled Caste farmers; component eligibility and assistance are set by current state guidelines.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_label": "MahaDBT Maharashtra — Farmer Schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-015",
+    "name": "Birsa Munda Krushi Kranti Yojana",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Maharashtra",
+    "summary": "Maharashtra agriculture support scheme listed for eligible Scheduled Tribe farmers under Tribal Sub-Plan and outside Tribal Sub-Plan components.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_label": "MahaDBT Maharashtra — Farmer Schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-016",
+    "name": "Bhausaheb Fundkar Phalbaag Lagvad Yojana",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Maharashtra",
+    "summary": "Maharashtra horticulture programme supporting eligible fruit-orchard planting activities under current department conditions.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_label": "MahaDBT Maharashtra — Farmer Schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-017",
+    "name": "State Agriculture Mechanization Scheme",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Maharashtra",
+    "summary": "Maharashtra assistance for eligible farm mechanization components; equipment, beneficiary categories and subsidy terms require current portal verification.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_label": "MahaDBT Maharashtra — Farmer Schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-018",
+    "name": "Chief Minister Sustainable Agriculture Irrigation Scheme — Individual Farm Pond",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Maharashtra",
+    "summary": "Maharashtra support for eligible individual farm-pond irrigation works under current state conditions.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_label": "MahaDBT Maharashtra — Farmer Schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-019",
+    "name": "Mission for Integrated Development of Horticulture (Maharashtra implementation)",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Maharashtra",
+    "summary": "State implementation of horticulture assistance for eligible activities such as protected cultivation; component windows and rates vary.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_label": "MahaDBT Maharashtra — Farmer Schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-020",
+    "name": "Rainfed Area Development Programme (Maharashtra implementation)",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Maharashtra",
+    "summary": "Supports eligible integrated farming and livelihood activities in selected rainfed areas through state implementation.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_label": "MahaDBT Maharashtra — Farmer Schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-021",
+    "name": "Rashtriya Krushi Vikas Yojana — Maharashtra implementation",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Maharashtra",
+    "summary": "State-level agriculture and allied-sector projects under approved RKVY components; applicant-facing benefits depend on the notified activity.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_label": "MahaDBT Maharashtra — Farmer Schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-022",
+    "name": "Sub-Mission on Agricultural Mechanization (Maharashtra implementation)",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Maharashtra",
+    "summary": "Maharashtra delivery of eligible farm machinery support under approved central/state components and current application rules.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_label": "MahaDBT Maharashtra — Farmer Schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-023",
+    "name": "PMKSY — Per Drop More Crop (Maharashtra implementation)",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Maharashtra",
+    "summary": "Maharashtra micro-irrigation support for eligible farmers and installations, subject to current component and application conditions.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_label": "MahaDBT Maharashtra — Farmer Schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-024",
+    "name": "Mahatma Jyotirao Phule Shetkari Karjamukti Yojana",
+    "category": "Agriculture",
+    "subcategory": "Agriculture / credit relief",
+    "jurisdiction": "Maharashtra",
+    "summary": "Maharashtra farm-loan relief programme with eligibility determined by government resolutions and the relevant application/beneficiary records.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahasahakar.maharashtra.gov.in/en/schemes-programmes/",
+    "source_url": "https://www.myscheme.gov.in/search/state/Maharashtra",
+    "source_label": "myScheme — Maharashtra schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-025",
+    "name": "PM-KISAN (Maharashtra applicants)",
+    "category": "Agriculture",
+    "subcategory": "Agriculture",
+    "jurisdiction": "Maharashtra",
+    "summary": "Central PM-KISAN scheme available to eligible Maharashtra farmer families; state authorities verify records and exclusions.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://pmkisan.gov.in/",
+    "source_url": "https://mahadbt.maharashtra.gov.in/Farmer/Login/Login",
+    "source_label": "MahaDBT Maharashtra — Farmer Schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-026",
+    "name": "National Means-cum-Merit Scholarship Scheme (NMMSS)",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Central",
+    "summary": "Scholarship support for selected students meeting notified school, examination and income conditions; check the current National Scholarship Portal notice.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://scholarships.gov.in/",
+    "source_url": "https://scholarships.gov.in/",
+    "source_label": "National Scholarship Portal — Government of India",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-027",
+    "name": "Central Sector Scheme of Scholarships for College and University Students",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Central",
+    "summary": "Merit-based scholarship for eligible students pursuing higher education, subject to the current scheme guidelines and application cycle.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://scholarships.gov.in/",
+    "source_url": "https://scholarships.gov.in/",
+    "source_label": "National Scholarship Portal — Government of India",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-028",
+    "name": "PM YASASVI (scholarship and related support for eligible OBC/EBC/DNT students)",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Central",
+    "summary": "Umbrella support for eligible OBC, EBC and DNT students through specified scholarship and related components; check current component guidelines.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://yet.nta.ac.in/",
+    "source_url": "https://scholarships.gov.in/",
+    "source_label": "National Scholarship Portal — Government of India",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-029",
+    "name": "Pre-Matric Scholarship for Scheduled Caste Students",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Central",
+    "summary": "Scholarship support for eligible Scheduled Caste students at notified school levels, subject to current central/state implementation rules.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://scholarships.gov.in/",
+    "source_url": "https://scholarships.gov.in/",
+    "source_label": "National Scholarship Portal — Government of India",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-030",
+    "name": "Post-Matric Scholarship for Scheduled Caste Students",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Central",
+    "summary": "Scholarship support for eligible Scheduled Caste students pursuing post-matric studies; income, course and application conditions apply.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://scholarships.gov.in/",
+    "source_url": "https://scholarships.gov.in/",
+    "source_label": "National Scholarship Portal — Government of India",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-031",
+    "name": "Post-Matric Scholarship for Students with Disabilities",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Central",
+    "summary": "Scholarship support for eligible students with benchmark disabilities in notified courses, subject to current guidelines.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://scholarships.gov.in/",
+    "source_url": "https://scholarships.gov.in/",
+    "source_label": "National Scholarship Portal — Government of India",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-032",
+    "name": "National Scholarship for Post Graduate Studies",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Central",
+    "summary": "UGC scholarship opportunity for eligible postgraduate students; selection and applicant conditions are published by UGC for each cycle.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://www.ugc.gov.in/",
+    "source_url": "https://scholarships.gov.in/",
+    "source_label": "National Scholarship Portal — Government of India",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-033",
+    "name": "Pragati Scholarship Scheme for Girl Students (AICTE)",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Central",
+    "summary": "AICTE scholarship for eligible girl students in approved technical education programmes; current intake, eligibility and amount are governed by AICTE rules.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://www.aicte-india.org/schemes/students-development-schemes",
+    "source_url": "https://scholarships.gov.in/",
+    "source_label": "National Scholarship Portal — Government of India",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-034",
+    "name": "Saksham Scholarship Scheme for Specially-Abled Students (AICTE)",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Central",
+    "summary": "AICTE scholarship for eligible specially-abled students enrolled in approved technical programmes, subject to current scheme conditions.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://www.aicte-india.org/schemes/students-development-schemes",
+    "source_url": "https://scholarships.gov.in/",
+    "source_label": "National Scholarship Portal — Government of India",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-035",
+    "name": "Prime Minister’s Scholarship Scheme (PMSS) for Central Armed Police Forces and Assam Rifles",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Central",
+    "summary": "Scholarship for eligible wards and widows under notified CAPF/Assam Rifles categories; check current eligibility and application instructions on NSP.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://scholarships.gov.in/",
+    "source_url": "https://scholarships.gov.in/",
+    "source_label": "National Scholarship Portal — Government of India",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-036",
+    "name": "Maharashtra Post-Matric Scholarship for Scheduled Caste Students",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Maharashtra",
+    "summary": "MahaDBT scholarship for eligible Maharashtra Scheduled Caste students pursuing post-matric education; course, income and renewal rules apply.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_label": "MahaDBT Maharashtra — Scholarships",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-037",
+    "name": "Maharashtra Post-Matric Scholarship for VJNT Students",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Maharashtra",
+    "summary": "MahaDBT scholarship for eligible Vimukta Jati and Nomadic Tribe students; check current category, course and income rules.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_label": "MahaDBT Maharashtra — Scholarships",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-038",
+    "name": "Maharashtra Post-Matric Scholarship for OBC Students",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Maharashtra",
+    "summary": "MahaDBT scholarship for eligible Other Backward Class students; current course, income and renewal requirements apply.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_label": "MahaDBT Maharashtra — Scholarships",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-039",
+    "name": "Maharashtra Post-Matric Scholarship for SBC Students",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Maharashtra",
+    "summary": "MahaDBT scholarship for eligible Special Backward Class students pursuing post-matric education, subject to current rules.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_label": "MahaDBT Maharashtra — Scholarships",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-040",
+    "name": "Maharashtra Post-Matric Scholarship for ST Students",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Maharashtra",
+    "summary": "Scholarship support for eligible Scheduled Tribe students in Maharashtra; applications and criteria are published by the Tribal Development Department/MahaDBT.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_label": "MahaDBT Maharashtra — Scholarships",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-041",
+    "name": "Tuition Fee and Examination Fee Freeship for Tribal Students (Maharashtra)",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Maharashtra",
+    "summary": "Fee support for eligible Maharashtra Scheduled Tribe students under notified course and income conditions.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_label": "MahaDBT Maharashtra — Scholarships",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-042",
+    "name": "Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Maharashtra",
+    "summary": "Maharashtra fee scholarship for eligible students under the applicable department and course rules; verify current income and admission criteria.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_label": "MahaDBT Maharashtra — Scholarships",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-043",
+    "name": "Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Maharashtra",
+    "summary": "Maharashtra hostel maintenance allowance for eligible students under department-specific rules and approved courses.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_label": "MahaDBT Maharashtra — Scholarships",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-044",
+    "name": "Eklavya Scholarship (Maharashtra)",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Maharashtra",
+    "summary": "Maharashtra scholarship listed for eligible students under the Directorate of Higher Education; selection and academic conditions apply.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_label": "MahaDBT Maharashtra — Scholarships",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-045",
+    "name": "State Government Open Merit Scholarship (Maharashtra)",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Maharashtra",
+    "summary": "Merit scholarship listed on MahaDBT for eligible Maharashtra students; check current academic and course criteria.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_label": "MahaDBT Maharashtra — Scholarships",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-046",
+    "name": "State Minority Scholarship Part II (DHE, Maharashtra)",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Maharashtra",
+    "summary": "Scholarship for eligible minority-community students pursuing higher education under current Maharashtra DHE rules.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_label": "MahaDBT Maharashtra — Scholarships",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-047",
+    "name": "Post-Matric Scholarship for Girls from OBC Communities in Professional Courses (Maharashtra)",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Maharashtra",
+    "summary": "MahaDBT fee/scholarship support for eligible OBC girls in professional courses, subject to current course and category conditions.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_label": "MahaDBT Maharashtra — Scholarships",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-048",
+    "name": "Maharashtra Post-Matric Scholarship for Students with Disabilities",
+    "category": "Education",
+    "subcategory": "Education",
+    "jurisdiction": "Maharashtra",
+    "summary": "Scholarship support listed on MahaDBT for eligible students with disabilities; check current disability, course and income rules.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_url": "https://mahadbt.maharashtra.gov.in/",
+    "source_label": "MahaDBT Maharashtra — Scholarships",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-049",
+    "name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY)",
+    "category": "Healthcare",
+    "subcategory": "Healthcare",
+    "jurisdiction": "Central",
+    "summary": "Cashless hospital-care coverage for eligible beneficiary families at empanelled facilities; check the official beneficiary database for eligibility.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://beneficiary.nha.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/category/Health%20%26%20Wellness",
+    "source_label": "myScheme — Health and Wellness schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-050",
+    "name": "AB PM-JAY expansion for senior citizens aged 70 years and above",
+    "category": "Healthcare",
+    "subcategory": "Healthcare",
+    "jurisdiction": "Central",
+    "summary": "NHA guidance provides coverage for eligible people aged 70+ regardless of income, subject to Aadhaar-based e-KYC and current enrolment requirements.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://beneficiary.nha.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/category/Health%20%26%20Wellness",
+    "source_label": "myScheme — Health and Wellness schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-051",
+    "name": "Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)",
+    "category": "Healthcare",
+    "subcategory": "Healthcare",
+    "jurisdiction": "Central",
+    "summary": "Strengthens public health infrastructure and surveillance systems; benefits are delivered through public institutions and approved projects rather than a general individual cash application.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://pmabhim.mohfw.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/category/Health%20%26%20Wellness",
+    "source_label": "myScheme — Health and Wellness schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-052",
+    "name": "Janani Suraksha Yojana (JSY)",
+    "category": "Healthcare",
+    "subcategory": "Healthcare / maternal health",
+    "jurisdiction": "Central",
+    "summary": "Safe-motherhood intervention supporting eligible institutional deliveries under national and state rules; entitlements vary by state and category.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=841&lid=309",
+    "source_url": "https://www.myscheme.gov.in/search/category/Health%20%26%20Wellness",
+    "source_label": "myScheme — Health and Wellness schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-053",
+    "name": "Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP)",
+    "category": "Healthcare",
+    "subcategory": "Healthcare",
+    "jurisdiction": "Central",
+    "summary": "Improves access to quality generic medicines through Jan Aushadhi Kendras; it is a medicine-access programme, not an individual cash grant.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://janaushadhi.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/category/Health%20%26%20Wellness",
+    "source_label": "myScheme — Health and Wellness schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-054",
+    "name": "National Programme for Health Care of the Elderly (NPHCE)",
+    "category": "Healthcare",
+    "subcategory": "Healthcare",
+    "jurisdiction": "Central",
+    "summary": "Public health services for older persons through designated government health facilities; service availability depends on local implementation.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mohfw.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/category/Health%20%26%20Wellness",
+    "source_label": "myScheme — Health and Wellness schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-055",
+    "name": "Rashtriya Bal Swasthya Karyakram (RBSK)",
+    "category": "Healthcare",
+    "subcategory": "Healthcare / child health",
+    "jurisdiction": "Central",
+    "summary": "Child health screening and early intervention services for specified age groups through public health systems.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://nhm.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/category/Health%20%26%20Wellness",
+    "source_label": "myScheme — Health and Wellness schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-056",
+    "name": "Pradhan Mantri National Dialysis Programme",
+    "category": "Healthcare",
+    "subcategory": "Healthcare",
+    "jurisdiction": "Central",
+    "summary": "Dialysis services are supported through designated public health facilities under state implementation; check local facility availability.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://nhm.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/category/Health%20%26%20Wellness",
+    "source_label": "myScheme — Health and Wellness schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-057",
+    "name": "Mahatma Jyotirao Phule Jan Arogya Yojana (MJPJAY)",
+    "category": "Healthcare",
+    "subcategory": "Healthcare",
+    "jurisdiction": "Maharashtra",
+    "summary": "Maharashtra public health assurance scheme for eligible beneficiaries and listed treatment packages at participating hospitals; confirm current integration, eligibility and package details on the state portal.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://www.jeevandayee.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/state/Maharashtra",
+    "source_label": "myScheme — Maharashtra schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-058",
+    "name": "Maharashtra Chief Minister’s Medical Assistance Fund",
+    "category": "Healthcare",
+    "subcategory": "Healthcare",
+    "jurisdiction": "Maharashtra",
+    "summary": "State assistance for eligible patients facing specified serious medical treatment costs; approval and assistance depend on current fund rules and review.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://cmrf.maharashtra.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/state/Maharashtra",
+    "source_label": "myScheme — Maharashtra schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-059",
+    "name": "Maharashtra Chief Minister Vayoshree Scheme",
+    "category": "Healthcare",
+    "subcategory": "Healthcare / senior citizens",
+    "jurisdiction": "Maharashtra",
+    "summary": "Maharashtra support for eligible senior citizens, including assistance related to aids and appliances under current state conditions.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://sjsa.maharashtra.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/state/Maharashtra",
+    "source_label": "myScheme — Maharashtra schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-060",
+    "name": "Pradhan Mantri Ujjwala Yojana 2.0 (PMUY)",
+    "category": "Women and child",
+    "subcategory": "Women and clean energy",
+    "jurisdiction": "Central",
+    "summary": "Deposit-free LPG connection support for eligible adult women from qualifying poor households; current categories and benefits must be confirmed with the official portal/distributor.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://www.pmuy.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/category/Women%20and%20Child",
+    "source_label": "myScheme — Women and Child schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-061",
+    "name": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+    "category": "Women and child",
+    "subcategory": "Women and child",
+    "jurisdiction": "Central",
+    "summary": "Maternity benefit programme for eligible pregnant and lactating women, subject to current statutory exclusions and application rules.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://pmmvy.wcd.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/category/Women%20and%20Child",
+    "source_label": "myScheme — Women and Child schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-062",
+    "name": "Beti Bachao Beti Padhao (BBBP)",
+    "category": "Women and child",
+    "subcategory": "Women and child",
+    "jurisdiction": "Central",
+    "summary": "Programme addressing declining child sex ratio and promoting the value, protection and education of the girl child; not a universal direct-cash benefit.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://wcd.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/category/Women%20and%20Child",
+    "source_label": "myScheme — Women and Child schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-063",
+    "name": "Sukanya Samriddhi Account Scheme",
+    "category": "Women and child",
+    "subcategory": "Women and child / savings",
+    "jurisdiction": "Central",
+    "summary": "Small-savings account designed for a girl child and operated through authorized post offices and banks under current account rules.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://www.indiapost.gov.in/Financial/pages/content/post-office-saving-schemes.aspx",
+    "source_url": "https://www.myscheme.gov.in/search/category/Women%20and%20Child",
+    "source_label": "myScheme — Women and Child schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-064",
+    "name": "Mission Shakti — Sambal and Samarthya",
+    "category": "Women and child",
+    "subcategory": "Women and child",
+    "jurisdiction": "Central",
+    "summary": "Umbrella programme for women’s safety and empowerment services; specific services and eligibility depend on the component and local delivery channel.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://wcd.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/category/Women%20and%20Child",
+    "source_label": "myScheme — Women and Child schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-065",
+    "name": "One Stop Centre Scheme (Sakhi)",
+    "category": "Women and child",
+    "subcategory": "Women and child",
+    "jurisdiction": "Central",
+    "summary": "Integrated support services for women affected by violence, including referrals and access to assistance through designated centres.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://wcd.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/category/Women%20and%20Child",
+    "source_label": "myScheme — Women and Child schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-066",
+    "name": "Shakti Sadan",
+    "category": "Women and child",
+    "subcategory": "Women and child",
+    "jurisdiction": "Central",
+    "summary": "Relief and rehabilitation support for women in difficult circumstances through designated facilities and service providers.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://wcd.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/category/Women%20and%20Child",
+    "source_label": "myScheme — Women and Child schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-067",
+    "name": "PM VIKAS — women leadership and empowerment component",
+    "category": "Women and child",
+    "subcategory": "Women and skills",
+    "jurisdiction": "Central",
+    "summary": "Women’s leadership, education and skill-development support for eligible notified minority communities through specified programme components.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://pmvikas.minorityaffairs.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/category/Women%20and%20Child",
+    "source_label": "myScheme — Women and Child schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-068",
+    "name": "Mukhyamantri Majhi Ladki Bahin Yojana",
+    "category": "Women and child",
+    "subcategory": "Women and child",
+    "jurisdiction": "Maharashtra",
+    "summary": "Maharashtra DBT support for eligible women residents. The myScheme listing describes age and household-income conditions; verify current eligibility, exclusions and application status on official portals.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://ladakibahin.maharashtra.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/state/Maharashtra",
+    "source_label": "myScheme — Maharashtra schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-069",
+    "name": "Lek Ladki Yojana",
+    "category": "Women and child",
+    "subcategory": "Women and child",
+    "jurisdiction": "Maharashtra",
+    "summary": "Maharashtra girl-child support programme for eligible families, subject to birth, domicile, income and stage-wise conditions in current government resolutions.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://womenchild.maharashtra.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/state/Maharashtra",
+    "source_label": "myScheme — Maharashtra schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-070",
+    "name": "Majhi Kanya Bhagyashree Scheme",
+    "category": "Women and child",
+    "subcategory": "Women and child",
+    "jurisdiction": "Maharashtra",
+    "summary": "Maharashtra programme intended to support girl children and family welfare; current eligibility and benefit conditions must be verified with the state department.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://womenchild.maharashtra.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/state/Maharashtra",
+    "source_label": "myScheme — Maharashtra schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-071",
+    "name": "Swarnima Scheme for Women (Maharashtra)",
+    "category": "Women and child",
+    "subcategory": "Women and livelihood",
+    "jurisdiction": "Maharashtra",
+    "summary": "Low-interest self-employment finance for eligible OBC women in Maharashtra through the state corporation and NBCFDC framework; current income and age conditions apply.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://www.myscheme.gov.in/schemes/sma",
+    "source_url": "https://www.myscheme.gov.in/search/state/Maharashtra",
+    "source_label": "myScheme — Maharashtra schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-072",
+    "name": "Mahila Shetkari Sahayya / Women Farmer Support (Maharashtra)",
+    "category": "Women and child",
+    "subcategory": "Women and agriculture",
+    "jurisdiction": "Maharashtra",
+    "summary": "Maharashtra initiative providing recognition and support pathways for women engaged in farming and allied work; scheme benefits remain subject to each programme’s rules.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://mahakrushi.maharashtra.gov.in/mahila-shetkari-service/",
+    "source_url": "https://www.myscheme.gov.in/search/state/Maharashtra",
+    "source_label": "myScheme — Maharashtra schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-073",
+    "name": "Pradhan Mantri Awas Yojana-Urban 2.0 (PMAY-U 2.0)",
+    "category": "Housing",
+    "subcategory": "Housing",
+    "jurisdiction": "Central",
+    "summary": "Housing assistance for eligible urban households under applicable verticals; income, ownership, prior-benefit and state-specific rules apply.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://pmay-urban.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/ministry/all-ministries",
+    "source_label": "myScheme — Central Government schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-074",
+    "name": "Pradhan Mantri Awaas Yojana-Gramin (PMAY-G)",
+    "category": "Housing",
+    "subcategory": "Housing",
+    "jurisdiction": "Central",
+    "summary": "Rural housing programme for households selected under official deprivation and beneficiary-identification rules; check the official list and current guidelines.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://pmayg.nic.in/",
+    "source_url": "https://www.myscheme.gov.in/search/ministry/all-ministries",
+    "source_label": "myScheme — Central Government schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-075",
+    "name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "category": "Employment and skills",
+    "subcategory": "Employment and livelihood",
+    "jurisdiction": "Central",
+    "summary": "Guarantees up to at least 100 days of wage employment per financial year to a rural household whose adult members volunteer for unskilled manual work, as set by the Act and procedures.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://nrega.nic.in/",
+    "source_url": "https://www.myscheme.gov.in/search/ministry/all-ministries",
+    "source_label": "myScheme — Central Government schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-076",
+    "name": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)",
+    "category": "Education",
+    "subcategory": "Education and skills",
+    "jurisdiction": "Central",
+    "summary": "Placement-linked skill training for eligible rural poor youth through approved training partners and current programme rules.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://kaushal.rural.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/ministry/all-ministries",
+    "source_label": "myScheme — Central Government schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-077",
+    "name": "Pradhan Mantri SVANidhi",
+    "category": "Livelihood",
+    "subcategory": "Livelihood and small business",
+    "jurisdiction": "Central",
+    "summary": "Working-capital support and incentives for eligible street vendors under current lending and scheme conditions.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://pmsvanidhi.mohua.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/ministry/all-ministries",
+    "source_label": "myScheme — Central Government schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-078",
+    "name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+    "category": "Financial inclusion",
+    "subcategory": "Financial inclusion",
+    "jurisdiction": "Central",
+    "summary": "Facilitates access to basic bank accounts and related financial inclusion services through participating banks.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://pmjdy.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/ministry/all-ministries",
+    "source_label": "myScheme — Central Government schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-079",
+    "name": "Atal Pension Yojana (APY)",
+    "category": "Social welfare",
+    "subcategory": "Pension and social security",
+    "jurisdiction": "Central",
+    "summary": "Contributory pension scheme for eligible subscribers; joining age, tax-payer restrictions, contribution and pension choices are governed by current rules.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://www.npscra.nsdl.co.in/scheme-details.php",
+    "source_url": "https://www.myscheme.gov.in/search/ministry/all-ministries",
+    "source_label": "myScheme — Central Government schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-080",
+    "name": "National Social Assistance Programme (NSAP)",
+    "category": "Social welfare",
+    "subcategory": "Pension and social security",
+    "jurisdiction": "Central",
+    "summary": "Umbrella social assistance programme including old-age, widow, disability pension and family-benefit components for eligible households.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://nsap.nic.in/",
+    "source_url": "https://www.myscheme.gov.in/search/ministry/all-ministries",
+    "source_label": "myScheme — Central Government schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-081",
+    "name": "Maharashtra Sanjay Gandhi Niradhar Anudan Yojana",
+    "category": "Social welfare",
+    "subcategory": "Pension and social security",
+    "jurisdiction": "Maharashtra",
+    "summary": "State assistance for eligible destitute persons and specified vulnerable groups; criteria and payment amounts depend on current Maharashtra rules.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://sjsa.maharashtra.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/state/Maharashtra",
+    "source_label": "myScheme — Maharashtra schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-082",
+    "name": "Shravanbal Seva Rajya Nivruttivetan Yojana",
+    "category": "Social welfare",
+    "subcategory": "Pension and social security",
+    "jurisdiction": "Maharashtra",
+    "summary": "Maharashtra pension support for eligible older persons under state income and age conditions; confirm current rules with the Social Justice department.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://sjsa.maharashtra.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/state/Maharashtra",
+    "source_label": "myScheme — Maharashtra schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-083",
+    "name": "Indira Gandhi National Old Age Pension Scheme (Maharashtra)",
+    "category": "Social welfare",
+    "subcategory": "Pension and social security",
+    "jurisdiction": "Maharashtra",
+    "summary": "Central NSAP pension implemented in Maharashtra for eligible older persons meeting national and state criteria; current amounts and supplements may vary.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://nsap.nic.in/",
+    "source_url": "https://www.myscheme.gov.in/search/state/Maharashtra",
+    "source_label": "myScheme — Maharashtra schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  },
+  {
+    "id": "catalog-084",
+    "name": "Maharashtra Apprenticeship Promotion Scheme",
+    "category": "Employment and skills",
+    "subcategory": "Employment and skills",
+    "jurisdiction": "Maharashtra",
+    "summary": "State apprenticeship support intended to expand practical training and work experience; eligibility and employer participation depend on current programme notices.",
+    "eligibility": [
+      "Eligibility depends on the current official scheme guidelines and the applicant's circumstances.",
+      "Confirm active status, state/district coverage, exclusions and application window on the linked official portal."
+    ],
+    "documents": [
+      "Document requirements vary by scheme and applicant; check the official portal or implementing department before applying."
+    ],
+    "how_to_apply": "Use the official portal or contact the implementing department listed on the source page. This catalogue does not submit applications.",
+    "official_url": "https://kaushalya.mahaswayam.gov.in/",
+    "source_url": "https://www.myscheme.gov.in/search/state/Maharashtra",
+    "source_label": "myScheme — Maharashtra schemes",
+    "reviewed": "2026-11-04",
+    "tool_profile": "general"
+  }
+]

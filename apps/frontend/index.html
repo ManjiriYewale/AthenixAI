@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AthenixAI — Government Scheme Discovery</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/chat.css">
+</head>
+<body>
+<header class="top"><div class="wrap bar">
+  <div class="brand"><span class="logo" aria-hidden="true">A</span> AthenixAI</div>
+  <button id="theme" class="ghost" type="button">◐ Theme</button>
+</div></header>
+
+<section class="hero"><div class="wrap">
+  <p class="eyebrow">AI-POWERED GOVERNMENT SCHEME DISCOVERY</p>
+  <h1 id="hero-title">Find government schemes relevant to you</h1>
+  <p id="hero-subtitle">Create your profile once. AthenixAI will shortlist schemes from its catalogue based on your details and interests.</p>
+  <p class="notice">⚑ Recommendations are for discovery only. They are not an official eligibility decision or application.</p>
+</div></section>
+
+<main class="wrap main">
+  <section id="profile-view" class="view">
+    <div class="intro">
+      <span class="step">STEP 1 OF 2</span>
+      <h2>Create your profile</h2>
+      <p>Share only the details needed to find potentially relevant schemes. Your profile is used for this session.</p>
+    </div>
+    <form id="f" class="card form" aria-label="Create your profile">
+      <div class="form-grid">
+        <label>Age <input name="age" type="number" min="0" max="120" placeholder="e.g. 21"></label>
+        <label>State
+          <select name="state">
+            <option value="">Select state</option>
+            <option>Andhra Pradesh</option><option>Arunachal Pradesh</option><option>Assam</option><option>Bihar</option><option>Chhattisgarh</option><option>Goa</option><option>Gujarat</option><option>Haryana</option><option>Himachal Pradesh</option><option>Jharkhand</option><option>Karnataka</option><option>Kerala</option><option>Madhya Pradesh</option><option>Maharashtra</option><option>Manipur</option><option>Meghalaya</option><option>Mizoram</option><option>Nagaland</option><option>Odisha</option><option>Punjab</option><option>Rajasthan</option><option>Sikkim</option><option>Tamil Nadu</option><option>Telangana</option><option>Tripura</option><option>Uttar Pradesh</option><option>Uttarakhand</option><option>West Bengal</option><option>Andaman and Nicobar Islands</option><option>Chandigarh</option><option>Dadra and Nagar Haveli and Daman and Diu</option><option>Delhi</option><option>Jammu and Kashmir</option><option>Ladakh</option><option>Lakshadweep</option><option>Puducherry</option>
+          </select>
+        </label>
+        <label>Annual family income (₹) <input name="annual_family_income" type="number" min="0" step="1000" placeholder="e.g. 450000"></label>
+        <label>Occupation
+          <select name="occupation"><option value="">Select occupation</option><option>Student</option><option>Farmer</option><option>Worker</option><option>Self-employed</option><option>Homemaker</option><option>Unemployed</option><option>Other</option></select>
+        </label>
+        <label>Gender
+          <select name="gender"><option value="">Select gender</option><option>Female</option><option>Male</option><option>Other</option></select>
+        </label>
+        <label>Social category
+          <select name="category"><option value="">Select category</option><option>General</option><option>OBC</option><option>SC</option><option>ST</option><option>Other</option></select>
+        </label>
+        <label>Education level
+          <select name="education"><option value="">Select education</option><option>School</option><option>Diploma</option><option>Undergraduate</option><option>B.Tech</option><option>Postgraduate</option><option>PhD</option><option>Other</option></select>
+        </label>
+        <label>What are you looking for?
+          <select name="interest"><option value="">Select interest</option><option value="education scholarship">Education & scholarships</option><option value="agriculture farmer">Agriculture & farming</option><option value="healthcare">Healthcare</option><option value="employment skill">Employment & skill development</option><option value="women welfare">Women welfare</option><option value="housing">Housing</option><option value="social welfare pension">Social welfare</option><option value="all">All scheme categories</option></select>
+        </label>
+      </div>
+      <label class="wide">Additional search keywords (optional)
+        <input name="keywords" maxlength="100" placeholder="e.g. post-matric scholarship, agriculture, housing">
+      </label>
+      <div class="form-actions">
+        <button type="button" id="demo" class="ghost">Try sample profile</button>
+        <button type="reset" id="reset" class="ghost">Clear</button>
+        <button type="submit" class="primary">Find Government Schemes <span aria-hidden="true">→</span></button>
+      </div>
+      <p class="privacy">Your profile details are sent to the local AthenixAI backend for matching. They are not displayed publicly.</p>
+    </form>
+  </section>
+
+  <section id="results-view" class="view" hidden>
+    <div class="results-heading">
+      <div><span class="step">STEP 2 OF 2</span><h2>Your recommended schemes</h2><p id="result-summary">Schemes shortlisted using your profile.</p></div>
+      <div class="result-actions"><button id="edit-profile" class="ghost" type="button">← Edit Profile</button><button id="view-all" class="primary" type="button">View All 84 Schemes →</button></div>
+    </div>
+    <div class="result-note">These are profile-based recommendations, not confirmed eligibility results. Review each scheme's current official conditions.</div>
+    <div id="list" class="scheme-grid" aria-live="polite"></div>
+  </section>
+
+  <section id="catalogue-view" class="view" hidden>
+    <div class="results-heading">
+      <div><span class="step">COMPLETE CATALOGUE</span><h2>All Government Schemes</h2><p id="catalogue-summary">Browse all schemes available in AthenixAI.</p></div>
+      <button id="back-recommendations" class="ghost" type="button">← Back to Recommendations</button>
+    </div>
+    <div class="catalogue-tools">
+      <input id="catalogue-search" type="search" placeholder="Search by scheme name or description…" aria-label="Search all schemes">
+      <select id="catalogue-category" aria-label="Filter by category"><option value="">All categories</option></select>
+      <select id="catalogue-level" aria-label="Filter by government level"><option value="">Central and State</option><option value="Central">Central</option><option value="State">State</option></select>
+    </div>
+    <div id="catalogue-list" class="scheme-grid" aria-live="polite"></div>
+  </section>
+</main>
+
+<footer class="wrap foot">AthenixAI · Government scheme discovery and information assistance</footer>
+
+<button id="chat-open" class="chat-fab" aria-expanded="false" aria-controls="chat">💬 Ask AthenixAI</button>
+<aside id="chat" class="chat" hidden aria-label="AthenixAI chat assistant">
+  <div class="chat-head"><strong>AthenixAI assistant</strong><button id="chat-close" class="ghost" aria-label="Close chat">✕</button></div>
+  <div id="msgs" class="msgs" role="log" aria-live="polite"></div>
+  <div id="quick" class="quick"></div>
+  <form id="chat-form" class="chat-form"><input id="chat-input" maxlength="500" placeholder="Ask about schemes, documents, how to apply…" aria-label="Message" autocomplete="off"><button>Send</button></form>
+</aside>
+<script src="js/app.js"></script>
+<script src="js/chat.js"></script>
+</body></html>
